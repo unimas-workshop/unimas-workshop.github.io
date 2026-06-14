@@ -10,7 +10,7 @@
 <h3 align="center">UniMAS: A Unified View of Multi-Agent Systems for Embodied AI</h3>
 
 <p align="center">
-  <b>December 12 or 13, 2026</b> &nbsp;&bull;&nbsp; Atlanta, GA, USA
+  <b>December 12 or 13, 2026</b> &nbsp;&bull;&nbsp; Atlanta, GA, USA 
 </p>
 
 ---
