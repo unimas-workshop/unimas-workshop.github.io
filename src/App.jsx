@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useRef, useCallback } from 'react';
 import './index.css';
 import chiWangPhoto from './assets/images/chi-wang.jpg';
+import zihanWangPhoto from './assets/images/zihan-wang.jpg';
 
 /* ============================================
    Data
@@ -50,13 +51,6 @@ const ORGANIZERS = [
     website: 'https://xuanwang91.github.io',
   },
   {
-    name: 'Manling Li',
-    role: 'Assistant Professor, Computer Science',
-    affiliation: 'Northwestern University',
-    photo: 'https://limanling.github.io/authors/admin/avatar_hudd2cb509b9271810998b42a25e34ae22_4743348_270x270_fill_q75_lanczos_center.jpg',
-    website: 'https://limanling.github.io/',
-  },
-  {
     name: 'Wenqi Shi',
     role: 'Assistant Professor, Health Data Science',
     affiliation: 'UT Southwestern Medical Center',
@@ -88,7 +82,7 @@ const ORGANIZERS = [
     name: 'Zihan Wang',
     role: 'VP of Research',
     affiliation: 'Abaka AI',
-    photo: 'https://media.licdn.com/dms/image/v2/D5603AQGy6SHQlqdQ0w/profile-displayphoto-scale_400_400/B56ZvIDCEqKUAg-/0/1768587797213?e=1776902400&v=beta&t=5HIqwl4gqvKUWSIRFAGiRvkcg_xBGaBBBQMPriOVIXk',
+    photo: zihanWangPhoto,
     website: 'https://www.linkedin.com/in/zihanwanghms/',
   },
   {
